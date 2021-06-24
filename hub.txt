@@ -1,0 +1,6 @@
+hub BJL_bw_hub
+shortLabel BJL_hub
+longLabel BJL_hub
+genomesFile genomes.txt
+email brjlarso@ucsc.edu
+descriptionUrl ucscHub.html
