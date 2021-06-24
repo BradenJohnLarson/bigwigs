@@ -1,0 +1,17 @@
+track N2_male_rep1
+bigDataUrl /m3m2s25/BJL01.bigWig
+shortLabel N2 male gl rep1
+longLabel Depth of alignments of DNAse reads
+type bigWig
+
+track N2_male_rep2
+bigDataUrl /dnaseSignal.bigWig
+shortLabel N2 male gl rep2
+longLabel Depth of alignments of DNAse reads
+type bigWig
+
+track N2_male_rep3
+bigDataUrl /dnaseSignal.bigWig
+shortLabel DNAse Signal
+longLabel Depth of alignments of DNAse reads
+type bigWig
